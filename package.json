@@ -24,7 +24,9 @@
     "hubot-scripts": ">=2.4.3",
     "optparse": "1.0.3",
     "xml2js": "0.1.14",
-    "nodepie": "0.4.x"
+    "nodepie": "0.4.x",
+    "htmlparser": "1.7.6",
+    "soupselect": "0.2.0"
   }
 }
 
