@@ -26,7 +26,10 @@
     "xml2js": "0.1.14",
     "nodepie": "0.4.x",
     "htmlparser": "1.7.6",
-    "soupselect": "0.2.0"
+    "soupselect": "0.2.0",
+    "url": "",
+    "querystring": "",
+    "gitio": "1.0.1"
   }
 }
 
